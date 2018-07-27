@@ -1,0 +1,27 @@
+HARDWARE USED:-
+
+Arduino Uno (Atmega 328 P).
+16x2 lcd display.
+Connecting wires
+10k potentiometer.
+20 Shift registers.
+SMPS (Switch mode power supply of 5v 5 Amperes rating).
+GSM Modem (SIM 900).
+560 Leds.
+Resisters (330 ohms)
+Decoupling Capacitors (.1 micro Farads).
+USB A to B cable.
+Power Adapter 9 V 2 Ampere ( for GSM Modem).
+
+
+SOFTWARE USED:-
+
+Arduino IDE (Integrated Development Environment for Programming).
+Proteus 8 (for Simulation and Circuit Designing).
+
+MISCELLANEOUS:-
+
+Used Various AT commands for programming GSM.
+Referred Data Sheets for Shift Register, Atmega 328, GSM.
+Studied Embedded C and C++ for programming.
+Referred various Research Papers.
